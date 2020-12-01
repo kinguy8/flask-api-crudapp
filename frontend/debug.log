@@ -1,0 +1,94 @@
+[0921/195518.984:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/201429.014:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/202429.014:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/202429.014:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/202929.209:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/204429.209:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/205929.210:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/211429.210:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/212929.211:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/214429.211:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/215929.211:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/221429.212:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/222258.393:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/222929.213:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/224429.213:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/225929.214:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/231429.214:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/232929.214:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/234429.214:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 5056 not found in process
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 13424 not found in process
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 476 not found in process
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 17324 not found in process
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 17128 not found in process
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.216:ERROR:exception_snapshot_win.cc(99)] thread ID 7100 not found in process
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.178:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 12768 not found in process
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 14756 not found in process
+[0922/235140.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 6192 not found in process
+[0922/235140.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 2540 not found in process
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 16444 not found in process
+[0922/235140.231:ERROR:exception_snapshot_win.cc(99)] thread ID 12624 not found in process
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 14720 not found in process
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 10088 not found in process
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 15680 not found in process
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 14684 not found in process
+[0922/235140.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 7176 not found in process
+[0922/235140.247:ERROR:exception_snapshot_win.cc(99)] thread ID 13236 not found in process
+[0922/235140.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.263:ERROR:exception_snapshot_win.cc(99)] thread ID 10740 not found in process
+[0922/235140.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.263:ERROR:exception_snapshot_win.cc(99)] thread ID 9288 not found in process
+[0922/235140.263:ERROR:exception_snapshot_win.cc(99)] thread ID 13288 not found in process
+[0922/235140.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.263:ERROR:exception_snapshot_win.cc(99)] thread ID 2460 not found in process
+[0922/235140.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0922/235140.263:ERROR:exception_snapshot_win.cc(99)] thread ID 8208 not found in process
+[0923/143600.017:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0923/202911.332:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0924/133426.753:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0924/195740.157:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0925/094249.320:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0925/213348.477:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/003659.480:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/004659.480:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/004659.480:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/005159.481:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/010659.482:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/012159.482:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/013659.483:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/015159.483:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0926/120428.785:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0927/184049.617:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0927/223406.981:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0928/203126.817:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0929/215442.110:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0929/221210.246:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0929/222339.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0929/223006.980:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0929/224705.367:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0930/203919.866:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1001/215531.342:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1001/224104.709:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1005/211511.456:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1006/211557.650:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1007/210740.140:ERROR:crash_report_database_win.cc(469)] failed to stat report
